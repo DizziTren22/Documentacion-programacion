@@ -1,15 +1,12 @@
 Principios de programación SOLID
 
-	Objetivo: Escribir mejor el código 
-			  Código mas mantenible
-			  Fácil de cambiar
-			  Se extensible los proyectos
+	Objetivo: Escribir mejor el código, código mas mantenible, fácil de cambiar, se extensible los proyectos
 			  
 - Single responsability (SRP)
-- Open-Close principle (
-- Liskov substitution (LS)
+- Open-Close principle (OCP)
+- Liskov substitution principle(LSP)
 - Interface segregation principle (ISP)
-- Dependecy inversion principle
+- Dependecy inversion principle (DIP)
 
 
  - Single responsability:
