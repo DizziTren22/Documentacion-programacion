@@ -1,5 +1,0 @@
-Funciones que brinda un arreglo
-push -> agregar elemento en la ultima posicion del arreglo
-unshift -> agregar elemento al inicio del arreglo
-pop -> eliminar ultimo registro y retornar el valor
-shift -> eliminar el primer registro y retornar el valor
