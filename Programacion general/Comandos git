@@ -9,3 +9,6 @@ eliminar archivo -> rm [nombre_archivo]
 #Comandos git
 iniciar repositorio local -> git init
 agregar cambios al stage(paso antes de hacer un commit) -> git add . ó git add [nombre_archivo]
+hacer commit -> git commit -m "commit"
+borrar branch local -> git branch -d <branch>
+borrar branch remoto -> git push origin :<branch>
