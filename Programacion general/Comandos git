@@ -4,6 +4,8 @@ crear carpeta -> mkdir [nombre_carpeta]
 listar archivos -> ls
 crear archivo -> touch [nombre_archivo] + extensión
 modificar archivo -> nano [nombre_archivo]
+eliminar archivo -> rm [nombre_archivo]
 
-
-
+#Comandos git
+iniciar repositorio local -> git init
+agregar cambios al stage(paso antes de hacer un commit) -> git add . ó git add [nombre_archivo]
