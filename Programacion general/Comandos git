@@ -1,0 +1,9 @@
+#Comandos consola
+
+crear carpeta -> mkdir [nombre_carpeta]
+listar archivos -> ls
+crear archivo -> touch [nombre_archivo] + extensión
+modificar archivo -> nano [nombre_archivo]
+
+
+
