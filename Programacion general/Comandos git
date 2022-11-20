@@ -12,3 +12,4 @@ agregar cambios al stage(paso antes de hacer un commit) -> git add . ó git add 
 hacer commit -> git commit -m "commit"
 borrar branch local -> git branch -d <branch>
 borrar branch remoto -> git push origin :<branch>
+remover referencia repositorio remoto -> git remote remove origin
