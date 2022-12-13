@@ -1,6 +1,6 @@
 Principios de programación SOLID
 
-	Objetivo: Escribir mejor el código, código mas mantenible, fácil de cambiar, se extensible los proyectos
+	Objetivo: Escribir mejor el código, código mas mantenible, fácil de cambiar, extensible los proyectos
 			  
 - Single responsability (SRP)
 - Open-Close principle (OCP)

@@ -1,0 +1,15 @@
+#Comandos consola
+
+crear carpeta -> mkdir [nombre_carpeta]
+listar archivos -> ls
+crear archivo -> touch [nombre_archivo] + extensión
+modificar archivo -> nano [nombre_archivo]
+eliminar archivo -> rm [nombre_archivo]
+
+#Comandos git
+iniciar repositorio local -> git init
+agregar cambios al stage(paso antes de hacer un commit) -> git add . ó git add [nombre_archivo]
+hacer commit -> git commit -m "commit"
+borrar branch local -> git branch -d <branch>
+borrar branch remoto -> git push origin :<branch>
+remover referencia repositorio remoto -> git remote remove origin
