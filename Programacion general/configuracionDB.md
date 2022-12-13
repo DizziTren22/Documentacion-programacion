@@ -24,3 +24,8 @@ Agregar estas propiedades en el archivo application.properties:
 spring.datasource.url=jdbc:h2:mem:<nombre_db>
 
 spring.h2.console.enabled=true
+
+# Elasticsearch
+Puerto para validar que esta arriba -> http://localhost:9200
+
+Puerto para kibana -> http://localhost:5601
