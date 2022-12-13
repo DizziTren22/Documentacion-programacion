@@ -17,3 +17,10 @@ spring.jpa.database-platform=org.hibernate.dialect.MySQL8Dialect
 
 - Se debe agregar de dependencia el MysqlDriver
 
+# H2
+
+Agregar estas propiedades en el archivo application.properties:
+
+spring.datasource.url=jdbc:h2:mem:<nombre_db>
+
+spring.h2.console.enabled=true
